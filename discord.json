@@ -4,15 +4,15 @@
   "presences": [
     {
       "details": "Discord: https://discord.gg/6GUUP5vS2Q",
-      "party": "Servidor Online - {online}"
+      "party": "Jogadores Online - {online}"
     },
     {
-      "details": "Novo evento disponível!",
-      "party": "Uma Mensagem Custom"
+      "details": "Beta 13/09",
+      "party": "Jogadores Online - {online}"
     },
     {
-      "details": "Jogue no melhor servidor que existe",
-      "party": "Rede Arcane"
+      "details": "Naruto RPG",
+      "party": "Jogadores Online - {online}"
     }
   ]
 }
